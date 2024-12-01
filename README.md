@@ -1,4 +1,4 @@
-<h1>Hi, I'm Daniel! <br/><a href="https://github.com/dannydough">IT Expert</a>& <a href="https://www.linkedin.com/in/daniel-k-728b871b2/">Cybersecurity Professional</a>
+<h1>Hi, I'm Daniel! <br/><a href="https://github.com/dannydough">IT Expert</a> & <a href="https://www.linkedin.com/in/daniel-k-728b871b2/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
