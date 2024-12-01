@@ -1,5 +1,8 @@
 <h1>Hi, I'm Daniel! <br/><a href="https://github.com/danieldough">IT Expert</a>, <a href="https://www.linkedin.com/in/daniel-k-728b871b2/"
                                                                                     
+
+
+
 2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
