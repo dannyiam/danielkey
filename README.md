@@ -4,11 +4,12 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket-Prerequisites-and-Installation](https://github.com/Dannydough/osTicket-Prerequisites-and-Installation)
-- <b>Microsoft Azure</b>
   - [osTicket-Post-Installation-Configuration](https://github.com/Dannydough/osTicket-Post-Installation-Configuration)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [osTicket-Ticket-Lifecycle-Examples](https://github.com/Dannydough/osTicket-Ticket-Lifecycle-Examples)
+
+- <b>Microsoft Azure</b>
+  - [Configuring-On-premises-Active-Directory-within-Azure-VMs](https://github.com/Dannydough/Configuring-On-premises-Active-Directory-within-Azure-VMs)
+  - [Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols](https://github.com/Dannydough/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
 
 <h2> 🤳 Connect with me:</h2>
 
