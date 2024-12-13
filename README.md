@@ -1,4 +1,9 @@
-<h1>Hi, I'm Daniel! <br/><a href="https://github.com/dannydough">"IT Expert"</a> & <a href="https://www.linkedin.com/in/daniel-k-728b871b2/">"Business IT Professional"</a>
+<h1>Hi, I'm Daniel! 
+  
+<img align="right" alt="Coding" width="200" src="https://imgur.com/ZUjNfA9.png">
+
+  
+<br/><a href="https://github.com/dannydough">"IT Expert"</a> & <a href="https://www.linkedin.com/in/daniel-k-728b871b2/">"Business IT Professional"</a>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
