@@ -10,6 +10,8 @@
 - <b>Microsoft Active Directory Inside Azure</b>
   - [Preparing AD Infrastructure in Azure](https://github.com/Dannydough/-Preparing-AD-Infrastructure-in-Azure)
   - [Deploying-Active-Directory](https://github.com/Dannydough/-Deploying-Active-Directory)
+  - [Deploying-Active-Directory-Part-2](https://github.com/Dannydough/Deploying-Active-Directory-Part-2)
+  - [Enabling-and-Unlocking-Accounts-and-Restting-Passwords](https://github.com/Dannydough/Enabling-and-Unlocking-Accounts-and-Restting-Passwords)
 
 <h2> 🤳 Connect with me:</h2>
 
