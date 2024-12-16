@@ -18,6 +18,9 @@
   - [Deploying-Active-Directory-Part-2](https://github.com/Dannydough/Deploying-Active-Directory-Part-2)
   - [Enabling-and-Unlocking-Accounts-and-Restting-Passwords](https://github.com/Dannydough/Enabling-and-Unlocking-Accounts-and-Restting-Passwords)
 
+- <b>Domain Nakme System (DNS)</b>
+  - [Building an Intuition for DNS](https://github.com/Dannydough/Building-an-Intuition-for-DNS)
+   
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
