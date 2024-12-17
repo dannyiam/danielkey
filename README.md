@@ -8,7 +8,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 
-- <b>Domain Nakme System (DNS)</b>
+- <b>Domain Name System (DNS)</b>
   - [Building an Intuition for DNS](https://github.com/Dannydough/Building-an-Intuition-for-DNS)
  
 -  <b>VPN Setup and Usage (Proton VPN)</b>
