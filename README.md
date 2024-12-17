@@ -21,7 +21,7 @@
 - <b>Domain Nakme System (DNS)</b>
   - [Building an Intuition for DNS](https://github.com/Dannydough/Building-an-Intuition-for-DNS)
  
-- <b>Network-File-Shares-and-Permissions(NFTS)</b>
+- <b>Network-File-Shares-and-Permissions (NFTS)</b>
   - [Network-File-Shares-and-Permissions](https://github.com/Dannydough/Network-File-Shares-and-Permissions)
    
 <h2> 🤳 Connect with me:</h2>
