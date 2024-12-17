@@ -7,6 +7,17 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+
+- <b>Domain Nakme System (DNS)</b>
+  - [Building an Intuition for DNS](https://github.com/Dannydough/Building-an-Intuition-for-DNS)
+ 
+-  <b>VPN Setup and Usage (Proton VPN)</b>
+    - [VPN-Setup-and-Usage](https://github.com/Dannydough/VPN-Setup-and-Usage)
+ 
+- <b>Network-File-Shares-and-Permissions (NFTS)</b>
+  - [Network-File-Shares-and-Permissions](https://github.com/Dannydough/Network-File-Shares-and-Permissions)
+ 
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket-Prerequisites-and-Installation](https://github.com/Dannydough/osTicket-Prerequisites-and-Installation)
   - [osTicket-Post-Installation-Configuration](https://github.com/Dannydough/osTicket-Post-Installation-Configuration)
@@ -18,14 +29,6 @@
   - [Deploying-Active-Directory-Part-2](https://github.com/Dannydough/Deploying-Active-Directory-Part-2)
   - [Enabling-and-Unlocking-Accounts-and-Restting-Passwords](https://github.com/Dannydough/Enabling-and-Unlocking-Accounts-and-Restting-Passwords)
 
-- <b>Domain Nakme System (DNS)</b>
-  - [Building an Intuition for DNS](https://github.com/Dannydough/Building-an-Intuition-for-DNS)
- 
-- <b>Network-File-Shares-and-Permissions (NFTS)</b>
-  - [Network-File-Shares-and-Permissions](https://github.com/Dannydough/Network-File-Shares-and-Permissions)
- 
--  <b>VPN Setup and Usage (Proton VPN)</b>
-    - [VPN-Setup-and-Usage](https://github.com/Dannydough/VPN-Setup-and-Usage)
    
 <h2> 🤳 Connect with me:</h2>
 
