@@ -24,8 +24,8 @@
 - <b>Network-File-Shares-and-Permissions (NFTS)</b>
   - [Network-File-Shares-and-Permissions](https://github.com/Dannydough/Network-File-Shares-and-Permissions)
  
--  <b>VPN Setup and Usage (Proton VPN) </b>
-  - [VPN-Setup-and-Usage](https://github.com/Dannydough/VPN-Setup-and-Usage)
+-  <b>VPN Setup and Usage (Proton VPN)</b>
+    - [VPN-Setup-and-Usage](https://github.com/Dannydough/VPN-Setup-and-Usage)
    
 <h2> 🤳 Connect with me:</h2>
 
