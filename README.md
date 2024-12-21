@@ -24,10 +24,10 @@
   - [osTicket-Ticket-Lifecycle-Examples](https://github.com/Dannydough/osTicket-Ticket-Lifecycle-Examples)
 
 - <b>Microsoft Active Directory Inside Azure</b>
-  - [Preparing AD Infrastructure in Azure](https://github.com/Dannydough/-Preparing-AD-Infrastructure-in-Azure)
-  - [Deploying-Active-Directory](https://github.com/Dannydough/-Deploying-Active-Directory)
+  - [Preparing AD Infrastructure in Azure](https://github.com/Dannydough/Preparing-AD-Infrastructure-in-Azure)
+  - [Deploying-Active-Directory](https://github.com/Dannydough/Deploying-Active-Directory)
   - [Deploying-Active-Directory-Part-2](https://github.com/Dannydough/Deploying-Active-Directory-Part-2)
-  - [Enabling-and-Unlocking-Accounts-and-Restting-Passwords](https://github.com/Dannydough/Enabling-and-Unlocking-Accounts-and-Restting-Passwords)
+  - [Enabling-and-Unlocking-Accounts-and-Resetting-Passwords](https://github.com/Dannydough/Enabling-and-Unlocking-Accounts-and-Resetting-Passwords)
 
    
 <h2> 🤳 Connect with me:</h2>
