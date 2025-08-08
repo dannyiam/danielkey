@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="200" src="https://imgur.com/ZUjNfA9.png">
 
   
-<br/><a href="https://github.com/dannydough">"IT Expert"</a> & <a href="https://www.linkedin.com/in/daniel-k-728b871b2/">"Business IT Professional"</a>
+<br/><a href="https://github.com/dannydough">"Aspiring IAM & PAM Admin"</a> & <a href="https://www.linkedin.com/in/daniel-k-728b871b2/">"Helping Others Learn IAM | Azure, AWS, CyberArk, Okta"</a>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
